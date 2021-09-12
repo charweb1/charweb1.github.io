@@ -1,0 +1,83 @@
+#heading{
+  background-color: rgb(66,66,66);
+  margin: auto;
+  text-align: center;
+  width:1500px;
+  height:300px;
+
+
+}
+
+#pageContent{
+  background-color: rgb(99,99,99);
+  width: 1500px;
+  height: 1600px;
+  margin: auto;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  background-color: rgb(66,66,66);
+  font-size: 100;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 2px grey;
+  font-style: oblique;
+  line-height: 1;
+
+
+}
+
+h2 {
+  text-align: center;
+  color: white;
+  background-color: rgb(66,66,66);
+  font-size: 80;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 2px grey;
+  font-style: oblique;
+  line-height: 1;
+}
+
+h3 {
+  text-align: center;
+  color: white;
+  background-color: rgb(66,66,66);
+  font-size: 50;
+  font-family: sans-serif;
+  text-shadow: 2px 2px 2px grey;
+  font-style: oblique;
+  line-height: 1;
+}
+img{
+  background-color: rgb(99,99,99);
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+
+}
+
+p{
+  text-align: center;
+  background-color: rgb(99,99,99);
+  margin-top: 40px;
+  margin-right: 40px;
+  margin-left: 40px;
+  color: white;
+  font-size: 36;
+  font-family: sans-serif;
+  line-height: 1;
+}
+
+li{
+  text-align: center;
+  background-color: rgb(99,99,99);
+  margin-top: 40px;
+  margin-left: 40px;
+  margin-right: 40px;
+  color: goldenrod;
+  font-size: 36;
+  font-family: sans-serif;
+  line-height: 1;
+}
